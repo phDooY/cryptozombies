@@ -21,6 +21,7 @@ https://medium.com/coinmonks/solidity-and-web3-js-141115b0f8c5
 - launch web-server with command: `http-server`
 - Visit url with browser having metamask installed, unlocked and connected to it to network of choice
 - Using console:
+
 ⋅⋅⋅Create zombie: `createRandomZombie("SOME NAME")`
 ⋅⋅⋅Display zombies: `getZombiesByOwner(userAccount).then(displayZombies)`
 ⋅⋅⋅Find zombie id: `getZombiesByOwner(userAccount)`
